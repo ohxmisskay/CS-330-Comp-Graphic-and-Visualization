@@ -4,42 +4,20 @@
 
 Testing is a crucial standard industry practice used to ensure all code functionalities are operational throughout the designing software. However, the first step when designing software is to understand the requirements and how to implement each assigned criterion. My approach also uses the method to work from top to bottom, prioritizing the needs and breaking each function into smaller subfunctions. The following step requires research to understand how to execute each function properly. Understanding each method makes it easier to break into subtasks to enhance the maintainability and reusability for future projects. Once the priorities are completed and tested, the following steps are ways to improve the project within the deadline and ensure all industry standards are implemented. 
 
-2. What new design skills has your work on the project helped you to craft?
-
 Many new concepts helped me develop design skills, including mesh creation, textures, lighting, and directional inputs. With mesh creation, I was able to form the base shapes that were required in the project. For example, using a torus, cylinder, and sphere, I was able to create a Christmas ornament. The textures were used to enhance the realism of the project to create the illusion of a lifelike scenery. By adding images such as all the colors of the Rubik's Cube to a box mesh, the photos felt as if one could pick up the object and hold it in their hands. The lighting helped make the scene's ambiance bring out the viewer's emotion. Adding darker lights creates a darker atmosphere to evoke an eerie feeling while looking at each object. Lastly, the directional inputs were implemented to allow viewers to wander through the stage as if entering a virtual reality. Viewers can see the different scales and renders created by enabling the camera view.
 
-3. What design process did you follow for your project work?
+The design process I followed in my project was first to gather and analyze each project requirement to determine what the end goal is. Once all the data was collected, I outlined what needed to be done while testing each functionality after every modification to ensure everything worked accordingly. Lastly, I would review any feedback provided to ensure all steps were evolving in the right direction. Gathering all necessary information can be applied in my future work to ensure each project is thoroughly understood. Although it can be time-consuming, I would instead proceed with cautionary steps rather than have assumptions that could lead to more significant mistakes. Another tactic I would implement in future work is to review feedback constantly. By obtaining feedback, I can ensure my self-growth is continuous and consistent.
 
-The design process I followed in my project was first to gather and analyze each project requirement to determine what the end goal is. Once all the data was collected, I outlined what needed to be done while testing each functionality after every modification to ensure everything worked accordingly. Lastly, I would review any feedback provided to ensure all steps were evolving in the right direction.
+2. How do I approach developing programs?
 
-4. How could tactics from your design approach be applied in future work?
+I focus on concept, planning, testing, and deployment when developing programs. By understanding the idea, I can determine the project's primary goal. With planning, I can decide which methods are best to execute. With testing, I can keep track of all documentation to ensure the application functions properly to be ready for release. Lastly, with deployment, I can confirm that all goals and industry standards are met, and errors are eliminated.
 
-Gathering all necessary information can be applied in my future work to ensure each project is thoroughly understood. Although it can be time-consuming, I would instead proceed with cautionary steps rather than have assumptions that could lead to more significant mistakes. Another tactic I would implement in future work is to review feedback constantly. By obtaining feedback, I can ensure my self-growth is continuous and consistent.
+A new development strategy while working on the 3D scene was component-based architecture. Component-based architecture is a strategy that builds software on flexible and reusable components. For example, when using cylinders, I had to modify the reusable code repeatedly to match objects such as the ornament's clasp or the nanoblock's sprinkles. Other examples focus on the different sizes of the box mesh to create different scales of the nanoblock's body and the box for the Rubik's cube. 
 
-5. How do I approach developing programs?
+Iteration was a considerable factor in my development. Many stages of the project constantly needed to be revised to realign back to the milestone and final project due to the addition of various texture and lighting features. There was a significant development from the first milestone towards the project's completion. Throughout each module, I started understanding more about how to organize the code correctly while feeling more comfortable with the functionalities of the project.
 
+3. How can computer science help me in reaching my goals?
 
-
-6. What new development strategies did you use while working on your 3D scene?
-
-
-
-7. How did iteration factor into your development?
-
-
-
-8. How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-
-
-9. How can computer science help me in reaching my goals?
-
-
-
-10. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-
-
-
-11. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Computer science is used in everyday life, whether medical, educational or even entertainment. Computer science helps me reach my goals by teaching me how to analyze problems and innovative ways to solve an issue. When focusing on an educational pathway, computational graphics, and visualizations enabled me to comprehend complex concepts and algorithms, such as understanding the rotation of an object by some degree in the x,y, or z direction. When professionally focusing on computational graphics and visualizations, I can understand how to make the code easy to understand, making it less challenging to read and maintain for future potential colleagues. 
 
 
